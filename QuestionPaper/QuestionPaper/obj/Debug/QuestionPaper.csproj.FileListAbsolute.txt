@@ -1,0 +1,10 @@
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe.config
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.pdb
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csprojAssemblyReference.cache
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Form1.resources
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Properties.Resources.resources
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csproj.GenerateResource.cache
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csproj.CoreCompileInputs.cache
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.exe
+E:\COLLEGE\college programs\SEM-6\CP351\Project\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.pdb
